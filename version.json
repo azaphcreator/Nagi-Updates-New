@@ -1,3 +1,10 @@
 {
-  "version": "1.0.1"
+  "version": "1.0.2",
+  "notes": [
+    "Nova versão liberada",
+    "Melhorias no Chat IA",
+    "Novas funcionalidades",
+    "Correções e otimizações"
+  ],
+  "zip_url": "https://github.com/azaphcreator/Nagi-Updates-New/releases/latest/download/update.zip"
 }
