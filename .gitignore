@@ -1,0 +1,9 @@
+.bot.env
+*.bot.env
+.env
+*.env
+venv
+__pycache__
+logs
+*.log
+desktop.ini
